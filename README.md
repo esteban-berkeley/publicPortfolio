@@ -1,7 +1,4 @@
-# Data Analyst Portfolio Project Repository
+#  Esteban's Portfolio Project Repository
 
-This Repository will hold all of the code and queries from the Portfolio Projects we create.
-
-Please feel free to take these and run with them. Make them your own and find you own insights
-
-I really do hope this is helpful and helps you land that dream job! :D
+This Repository demonstrates a couple sample projects created in my free time. From an Amazon Web scraper to data cleaning, the projects showcase my 
+skills as well as my stylistic approach to problem solving.
